@@ -1,3 +1,7 @@
+# BeetleGPT 1.0
+
+![Beetle](https://www.color-meanings.com/wp-content/uploads/2022/08/Polybothris-sumptuosa-gemma-1089x1536.jpeg)
+
 # Zero-Shot Coordinate Prediction for Beetle Elytra Measurement
 
 This repository contains the project **"Zero-Shot Coordinate Prediction for Beetle Elytra Measurement,"** which focuses on automating the process of generating beetle elytra coordinates without relying on Zooniverse, a citizen science platform. The project aims to facilitate large-scale entomological studies by providing an efficient method for measuring beetle elytra length and width.
